@@ -38,6 +38,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-This repository code references open source code from the https://tron.network, 0xproject.com, openzeppelin.org project and follows the corresponding open source licence.
+This repository code references open source code from the tron.network, 0xproject.com, openzeppelin.org project and follows the corresponding open source licence.
 
 **Please note that Armors is your technical partner in all your publicity materials and official website.**
