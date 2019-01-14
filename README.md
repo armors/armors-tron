@@ -1,9 +1,5 @@
 # Armors-tron
 
-[![NPM Package](https://img.shields.io/npm/v/Armors-tron.svg)](https://www.npmjs.com/package/Armors-tron)
-[![Travis](https://travis-ci.com/armors/Armors-tron.svg?branch=master)](https://travis-ci.com/armors/Armors-tron)
-[![Coverage Status](https://coveralls.io/repos/github/armors/Armors-tron/badge.svg)](https://coveralls.io/github/armors/Armors-tron)
-
 Armors-tron is a framework to build secure smart contracts on tron.The code here will include a secure library,  common smart contract code implementations, and some common industry solutions.
 
 ## Getting Started
