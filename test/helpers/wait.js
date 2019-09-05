@@ -7,7 +7,7 @@ function log(x) {
 
 module.exports = function (secs) {
     secs = secs || 1
-  log(`Sleeping for ${secs} second${secs === 1 ? '' : 's'}...`)
+    log(`Sleeping for ${secs} second${secs === 1 ? '' : 's'}...`)
     sleep.sleep(secs || 1)
-  log(' Slept.\n')
+    log(' Slept.\n')
 }
